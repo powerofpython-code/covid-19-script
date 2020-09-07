@@ -5,3 +5,7 @@ This python script collects the data of corona cases
 * pip install covid
 * pip install colorama
 * pip install tabulate
+# styles
+* colored text
+* ascii art
+* good looking table format
